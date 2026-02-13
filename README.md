@@ -28,6 +28,3 @@ Import database user.sql from downloaded folder(inside database)
 4. Open Your browser put inside "http://localhost/assets-management-system/"
 
 
-visit- https://projectworlds.in
-
-https://www.projectworlds.in/php-projects/asset-management-system-project-in-php/
